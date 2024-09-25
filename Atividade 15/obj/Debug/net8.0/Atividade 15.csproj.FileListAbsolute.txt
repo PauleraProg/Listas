@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\Atividade 15\bin\Debug\net8.0\Atividade 15.exe
+C:\Users\Micro\source\repos\Atividade 15\bin\Debug\net8.0\Atividade 15.deps.json
+C:\Users\Micro\source\repos\Atividade 15\bin\Debug\net8.0\Atividade 15.runtimeconfig.json
+C:\Users\Micro\source\repos\Atividade 15\bin\Debug\net8.0\Atividade 15.dll
+C:\Users\Micro\source\repos\Atividade 15\bin\Debug\net8.0\Atividade 15.pdb
+C:\Users\Micro\source\repos\Atividade 15\obj\Debug\net8.0\Atividade 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Atividade 15\obj\Debug\net8.0\Atividade 15.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Atividade 15\obj\Debug\net8.0\Atividade 15.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Atividade 15\obj\Debug\net8.0\Atividade 15.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Atividade 15\obj\Debug\net8.0\Atividade 15.dll
+C:\Users\Micro\source\repos\Atividade 15\obj\Debug\net8.0\refint\Atividade 15.dll
+C:\Users\Micro\source\repos\Atividade 15\obj\Debug\net8.0\Atividade 15.pdb
+C:\Users\Micro\source\repos\Atividade 15\obj\Debug\net8.0\Atividade 15.genruntimeconfig.cache
+C:\Users\Micro\source\repos\Atividade 15\obj\Debug\net8.0\ref\Atividade 15.dll

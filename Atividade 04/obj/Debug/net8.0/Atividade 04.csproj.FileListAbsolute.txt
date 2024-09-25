@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\Atividade 04\bin\Debug\net8.0\Atividade 04.exe
+C:\Users\Micro\source\repos\Atividade 04\bin\Debug\net8.0\Atividade 04.deps.json
+C:\Users\Micro\source\repos\Atividade 04\bin\Debug\net8.0\Atividade 04.runtimeconfig.json
+C:\Users\Micro\source\repos\Atividade 04\bin\Debug\net8.0\Atividade 04.dll
+C:\Users\Micro\source\repos\Atividade 04\bin\Debug\net8.0\Atividade 04.pdb
+C:\Users\Micro\source\repos\Atividade 04\obj\Debug\net8.0\Atividade 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Atividade 04\obj\Debug\net8.0\Atividade 04.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Atividade 04\obj\Debug\net8.0\Atividade 04.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Atividade 04\obj\Debug\net8.0\Atividade 04.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Atividade 04\obj\Debug\net8.0\Atividade 04.dll
+C:\Users\Micro\source\repos\Atividade 04\obj\Debug\net8.0\refint\Atividade 04.dll
+C:\Users\Micro\source\repos\Atividade 04\obj\Debug\net8.0\Atividade 04.pdb
+C:\Users\Micro\source\repos\Atividade 04\obj\Debug\net8.0\Atividade 04.genruntimeconfig.cache
+C:\Users\Micro\source\repos\Atividade 04\obj\Debug\net8.0\ref\Atividade 04.dll

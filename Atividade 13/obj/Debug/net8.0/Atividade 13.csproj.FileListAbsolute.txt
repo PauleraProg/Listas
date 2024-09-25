@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\Atividade 13\bin\Debug\net8.0\Atividade 13.exe
+C:\Users\Micro\source\repos\Atividade 13\bin\Debug\net8.0\Atividade 13.deps.json
+C:\Users\Micro\source\repos\Atividade 13\bin\Debug\net8.0\Atividade 13.runtimeconfig.json
+C:\Users\Micro\source\repos\Atividade 13\bin\Debug\net8.0\Atividade 13.dll
+C:\Users\Micro\source\repos\Atividade 13\bin\Debug\net8.0\Atividade 13.pdb
+C:\Users\Micro\source\repos\Atividade 13\obj\Debug\net8.0\Atividade 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Atividade 13\obj\Debug\net8.0\Atividade 13.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Atividade 13\obj\Debug\net8.0\Atividade 13.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Atividade 13\obj\Debug\net8.0\Atividade 13.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Atividade 13\obj\Debug\net8.0\Atividade 13.dll
+C:\Users\Micro\source\repos\Atividade 13\obj\Debug\net8.0\refint\Atividade 13.dll
+C:\Users\Micro\source\repos\Atividade 13\obj\Debug\net8.0\Atividade 13.pdb
+C:\Users\Micro\source\repos\Atividade 13\obj\Debug\net8.0\Atividade 13.genruntimeconfig.cache
+C:\Users\Micro\source\repos\Atividade 13\obj\Debug\net8.0\ref\Atividade 13.dll
