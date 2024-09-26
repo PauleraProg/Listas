@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micro\\source\\repos\\Atividade 11\\Atividade 11.csproj": {}
+    "C:\\Users\\PauloFilho\\OneDrive - Serviço Nacional de Aprendizagem Comercial\\Documents\\Exercícios-PauloJosé\\Atividade 11\\Atividade 11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micro\\source\\repos\\Atividade 11\\Atividade 11.csproj": {
+    "C:\\Users\\PauloFilho\\OneDrive - Serviço Nacional de Aprendizagem Comercial\\Documents\\Exercícios-PauloJosé\\Atividade 11\\Atividade 11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micro\\source\\repos\\Atividade 11\\Atividade 11.csproj",
+        "projectUniqueName": "C:\\Users\\PauloFilho\\OneDrive - Serviço Nacional de Aprendizagem Comercial\\Documents\\Exercícios-PauloJosé\\Atividade 11\\Atividade 11.csproj",
         "projectName": "Atividade 11",
-        "projectPath": "C:\\Users\\Micro\\source\\repos\\Atividade 11\\Atividade 11.csproj",
-        "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micro\\source\\repos\\Atividade 11\\obj\\",
+        "projectPath": "C:\\Users\\PauloFilho\\OneDrive - Serviço Nacional de Aprendizagem Comercial\\Documents\\Exercícios-PauloJosé\\Atividade 11\\Atividade 11.csproj",
+        "packagesPath": "C:\\Users\\PauloFilho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PauloFilho\\OneDrive - Serviço Nacional de Aprendizagem Comercial\\Documents\\Exercícios-PauloJosé\\Atividade 11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PauloFilho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

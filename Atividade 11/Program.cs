@@ -6,9 +6,9 @@
         {
             Console.WriteLine("Escaneie seus produtos:");
             Console.WriteLine("1: ");
-            double[] peças = {double.Parse(Console.ReadLine()), double.Parse(Console.ReadLine()), double.Parse(Console.ReadLine())};
+            List<double> peças = Console.ReadLine().Split().Select(double.Parse).ToList();
             Console.WriteLine("2: ");
-            double[] peças2 = {double.Parse(Console.ReadLine()), double.Parse(Console.ReadLine()), double.Parse(Console.ReadLine())};
+            List<double> peças2 = Console.ReadLine().Split().Select(double.Parse).ToList();
 
             Console.WriteLine($"Sua conta sai: R$ {Preço(peças[1], peças[2], peças2[1], peças2[2])}");
 
