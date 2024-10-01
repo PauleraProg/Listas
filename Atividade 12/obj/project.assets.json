@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Micro\\.nuget\\packages\\": {}
+    "C:\\Users\\PauloFilho\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Micro\\source\\repos\\Atividade 12\\Atividade 12.csproj",
+      "projectUniqueName": "C:\\Users\\PauloFilho\\OneDrive - Serviço Nacional de Aprendizagem Comercial\\Documents\\Exercícios-PauloJosé\\Atividade 12\\Atividade 12.csproj",
       "projectName": "Atividade 12",
-      "projectPath": "C:\\Users\\Micro\\source\\repos\\Atividade 12\\Atividade 12.csproj",
-      "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Micro\\source\\repos\\Atividade 12\\obj\\",
+      "projectPath": "C:\\Users\\PauloFilho\\OneDrive - Serviço Nacional de Aprendizagem Comercial\\Documents\\Exercícios-PauloJosé\\Atividade 12\\Atividade 12.csproj",
+      "packagesPath": "C:\\Users\\PauloFilho\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PauloFilho\\OneDrive - Serviço Nacional de Aprendizagem Comercial\\Documents\\Exercícios-PauloJosé\\Atividade 12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PauloFilho\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,0 +1,15 @@
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\bin\Debug\net8.0\Atividade 18.exe
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\bin\Debug\net8.0\Atividade 18.deps.json
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\bin\Debug\net8.0\Atividade 18.runtimeconfig.json
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\bin\Debug\net8.0\Atividade 18.dll
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\bin\Debug\net8.0\Atividade 18.pdb
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\obj\Debug\net8.0\Atividade 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\obj\Debug\net8.0\Atividade 18.AssemblyInfoInputs.cache
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\obj\Debug\net8.0\Atividade 18.AssemblyInfo.cs
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\obj\Debug\net8.0\Atividade 18.csproj.CoreCompileInputs.cache
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\obj\Debug\net8.0\Atividade 18.sourcelink.json
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\obj\Debug\net8.0\Atividade 18.dll
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\obj\Debug\net8.0\refint\Atividade 18.dll
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\obj\Debug\net8.0\Atividade 18.pdb
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\obj\Debug\net8.0\Atividade 18.genruntimeconfig.cache
+C:\Users\PauloFilho\OneDrive - Serviço Nacional de Aprendizagem Comercial\Documents\Exercícios-PauloJosé\Atividade 18\Atividade 18\obj\Debug\net8.0\ref\Atividade 18.dll

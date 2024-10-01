@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PauloFilho\\OneDrive - Servi\u00E7o Nacional de Aprendizagem Comercial\\Documents\\Exerc\u00EDcios-PauloJos\u00E9\\Atividade 17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38540D8A-90BF-4C35-86ED-1B4B82E6624A}|Atividade 17\\Atividade 17.csproj|c:\\users\\paulofilho\\onedrive - servi\u00E7o nacional de aprendizagem comercial\\documents\\exerc\u00EDcios-paulojos\u00E9\\atividade 17\\atividade 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38540D8A-90BF-4C35-86ED-1B4B82E6624A}|Atividade 17\\Atividade 17.csproj|solutionrelative:atividade 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PauloFilho\\OneDrive - Servi\u00E7o Nacional de Aprendizagem Comercial\\Documents\\Exerc\u00EDcios-PauloJos\u00E9\\Atividade 17\\Atividade 17\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade 17\\Program.cs",
+              "ToolTip": "C:\\Users\\PauloFilho\\OneDrive - Servi\u00E7o Nacional de Aprendizagem Comercial\\Documents\\Exerc\u00EDcios-PauloJos\u00E9\\Atividade 17\\Atividade 17\\Program.cs",
+              "RelativeToolTip": "Atividade 17\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:57:49.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
