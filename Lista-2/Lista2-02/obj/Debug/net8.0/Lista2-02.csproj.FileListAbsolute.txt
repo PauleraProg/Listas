@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\Lista2-02\bin\Debug\net8.0\Lista2-02.exe
+C:\Users\Micro\source\repos\Lista2-02\bin\Debug\net8.0\Lista2-02.deps.json
+C:\Users\Micro\source\repos\Lista2-02\bin\Debug\net8.0\Lista2-02.runtimeconfig.json
+C:\Users\Micro\source\repos\Lista2-02\bin\Debug\net8.0\Lista2-02.dll
+C:\Users\Micro\source\repos\Lista2-02\bin\Debug\net8.0\Lista2-02.pdb
+C:\Users\Micro\source\repos\Lista2-02\obj\Debug\net8.0\Lista2-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Lista2-02\obj\Debug\net8.0\Lista2-02.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Lista2-02\obj\Debug\net8.0\Lista2-02.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Lista2-02\obj\Debug\net8.0\Lista2-02.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Lista2-02\obj\Debug\net8.0\Lista2-02.dll
+C:\Users\Micro\source\repos\Lista2-02\obj\Debug\net8.0\refint\Lista2-02.dll
+C:\Users\Micro\source\repos\Lista2-02\obj\Debug\net8.0\Lista2-02.pdb
+C:\Users\Micro\source\repos\Lista2-02\obj\Debug\net8.0\Lista2-02.genruntimeconfig.cache
+C:\Users\Micro\source\repos\Lista2-02\obj\Debug\net8.0\ref\Lista2-02.dll
