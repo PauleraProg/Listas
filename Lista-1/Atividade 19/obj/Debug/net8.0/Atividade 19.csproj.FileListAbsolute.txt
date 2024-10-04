@@ -1,0 +1,14 @@
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\bin\Debug\net8.0\Atividade 19.exe
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\bin\Debug\net8.0\Atividade 19.deps.json
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\bin\Debug\net8.0\Atividade 19.runtimeconfig.json
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\bin\Debug\net8.0\Atividade 19.dll
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\obj\Debug\net8.0\Atividade 19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\obj\Debug\net8.0\Atividade 19.AssemblyInfoInputs.cache
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\obj\Debug\net8.0\Atividade 19.AssemblyInfo.cs
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\obj\Debug\net8.0\Atividade 19.csproj.CoreCompileInputs.cache
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\obj\Debug\net8.0\Atividade 19.sourcelink.json
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\obj\Debug\net8.0\Atividade 19.dll
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\obj\Debug\net8.0\refint\Atividade 19.dll
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\obj\Debug\net8.0\Atividade 19.pdb
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\obj\Debug\net8.0\Atividade 19.genruntimeconfig.cache
+C:\Users\PauloFilho\Documents\Exercícios\Lista-1\Atividade 19\obj\Debug\net8.0\ref\Atividade 19.dll
