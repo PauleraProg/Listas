@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\Torre de Hanoi\bin\Debug\net8.0\Torre de Hanoi.exe
+C:\Users\Micro\source\repos\Torre de Hanoi\bin\Debug\net8.0\Torre de Hanoi.deps.json
+C:\Users\Micro\source\repos\Torre de Hanoi\bin\Debug\net8.0\Torre de Hanoi.runtimeconfig.json
+C:\Users\Micro\source\repos\Torre de Hanoi\bin\Debug\net8.0\Torre de Hanoi.dll
+C:\Users\Micro\source\repos\Torre de Hanoi\bin\Debug\net8.0\Torre de Hanoi.pdb
+C:\Users\Micro\source\repos\Torre de Hanoi\obj\Debug\net8.0\Torre de Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Torre de Hanoi\obj\Debug\net8.0\Torre de Hanoi.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Torre de Hanoi\obj\Debug\net8.0\Torre de Hanoi.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Torre de Hanoi\obj\Debug\net8.0\Torre de Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Torre de Hanoi\obj\Debug\net8.0\Torre de Hanoi.dll
+C:\Users\Micro\source\repos\Torre de Hanoi\obj\Debug\net8.0\refint\Torre de Hanoi.dll
+C:\Users\Micro\source\repos\Torre de Hanoi\obj\Debug\net8.0\Torre de Hanoi.pdb
+C:\Users\Micro\source\repos\Torre de Hanoi\obj\Debug\net8.0\Torre de Hanoi.genruntimeconfig.cache
+C:\Users\Micro\source\repos\Torre de Hanoi\obj\Debug\net8.0\ref\Torre de Hanoi.dll

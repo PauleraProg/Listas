@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\Atividade 22\bin\Debug\net8.0\Atividade 22.exe
+C:\Users\Micro\source\repos\Atividade 22\bin\Debug\net8.0\Atividade 22.deps.json
+C:\Users\Micro\source\repos\Atividade 22\bin\Debug\net8.0\Atividade 22.runtimeconfig.json
+C:\Users\Micro\source\repos\Atividade 22\bin\Debug\net8.0\Atividade 22.dll
+C:\Users\Micro\source\repos\Atividade 22\bin\Debug\net8.0\Atividade 22.pdb
+C:\Users\Micro\source\repos\Atividade 22\obj\Debug\net8.0\Atividade 22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Atividade 22\obj\Debug\net8.0\Atividade 22.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Atividade 22\obj\Debug\net8.0\Atividade 22.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Atividade 22\obj\Debug\net8.0\Atividade 22.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Atividade 22\obj\Debug\net8.0\Atividade 22.dll
+C:\Users\Micro\source\repos\Atividade 22\obj\Debug\net8.0\refint\Atividade 22.dll
+C:\Users\Micro\source\repos\Atividade 22\obj\Debug\net8.0\Atividade 22.pdb
+C:\Users\Micro\source\repos\Atividade 22\obj\Debug\net8.0\Atividade 22.genruntimeconfig.cache
+C:\Users\Micro\source\repos\Atividade 22\obj\Debug\net8.0\ref\Atividade 22.dll

@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\Atividade 24\bin\Debug\net8.0\Atividade 24.exe
+C:\Users\Micro\source\repos\Atividade 24\bin\Debug\net8.0\Atividade 24.deps.json
+C:\Users\Micro\source\repos\Atividade 24\bin\Debug\net8.0\Atividade 24.runtimeconfig.json
+C:\Users\Micro\source\repos\Atividade 24\bin\Debug\net8.0\Atividade 24.dll
+C:\Users\Micro\source\repos\Atividade 24\bin\Debug\net8.0\Atividade 24.pdb
+C:\Users\Micro\source\repos\Atividade 24\obj\Debug\net8.0\Atividade 24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Atividade 24\obj\Debug\net8.0\Atividade 24.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Atividade 24\obj\Debug\net8.0\Atividade 24.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Atividade 24\obj\Debug\net8.0\Atividade 24.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Atividade 24\obj\Debug\net8.0\Atividade 24.dll
+C:\Users\Micro\source\repos\Atividade 24\obj\Debug\net8.0\refint\Atividade 24.dll
+C:\Users\Micro\source\repos\Atividade 24\obj\Debug\net8.0\Atividade 24.pdb
+C:\Users\Micro\source\repos\Atividade 24\obj\Debug\net8.0\Atividade 24.genruntimeconfig.cache
+C:\Users\Micro\source\repos\Atividade 24\obj\Debug\net8.0\ref\Atividade 24.dll
